@@ -11,7 +11,7 @@ On Windows:
 - Download Python 3.13 from the Microsoft Store
 - Update pip with pip install --upgrade pip
 - Download the files from the repository
-- Run the .py file in the directory you saved it to (eg. Documents)
+- Run the file_execution.py file in the directory you saved it to (eg. Documents)
 
 On Linux:
 
