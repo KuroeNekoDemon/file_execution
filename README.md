@@ -3,6 +3,7 @@ A simple python script that allows to you execute all file types in a specific d
 
 # Requirements
 - Python 3.13
+- Git (Requirement on Linux)
 
 # How to get started
 
