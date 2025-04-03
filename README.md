@@ -9,7 +9,7 @@ A simple python script that allows to you execute all file types in a specific d
 On Windows:
 
 - Download Python 3.13 from the Microsoft Store
-- Update pip with pip install --upgrade pip
+- Update pip: pip install --upgrade pip
 - Download the files from the repository
 - Run the file_execution.py file in the directory you saved it to (eg. Documents)
 
@@ -18,6 +18,7 @@ On Linux:
 - Clone the repository to whatever directory you want: git clone https://github.com/KuroeNekoDemon/file_execution.git
 - Make sure python is installed: python --version
 - Make sure pip is installed: pip --version
+- Update pip: pip install --upgrade pip
 - Run the .py file: python file_execution.py
 
 # Important information
